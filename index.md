@@ -17,10 +17,8 @@ I am currently pursuing a Master's degree in Computer Science and Technology at 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
 
 - **Sep 2021 - Current:** University of Chinese Academy of Sciences
-
   Master of Computer Science and Technology | GPA: 3.43/4.00
 - **Sep 2016 - Jul 2020:** Jilin University
-  
   Bachelor of Mathematics and Applied Mathematics
 
 <br>

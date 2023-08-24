@@ -18,10 +18,10 @@ I am currently pursuing a Master's degree in Computer Science and Technology at 
 
 - **Sep 2021 - Current:** University of Chinese Academy of Sciences
 
-Master of Computer Science and Technology | GPA: 3.43/4.00
+  Master of Computer Science and Technology | GPA: 3.43/4.00
 - **Sep 2016 - Jul 2020:** Jilin University
   
-Bachelor of Mathematics and Applied Mathematics
+  Bachelor of Mathematics and Applied Mathematics
 
 <br>
 

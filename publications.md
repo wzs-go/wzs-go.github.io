@@ -44,6 +44,8 @@ I participated in national projects undertaken by the research lab during my gra
 
 ## Competitions
 
-- **Oct 2022:** "Huawei Cup" China Graduate Mathematical Modeling Competition National Second Prize - on the scientific management of daily necessities during the epidemic
-- **May 2018:** Mathematical Modeling Competition Provincial First Prize - Special Clothing Design for hot environment
+- **Oct 2022:** "Huawei Cup" China Graduate Mathematical Modeling Competition National Second Prize<br>
+On the scientific management of daily necessities during the epidemic
+- **May 2018:** Mathematical Modeling Competition Provincial First Prize<br>
+Special Clothing Design for hot environment
 

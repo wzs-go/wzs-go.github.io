@@ -40,3 +40,10 @@ A patent is presented in this document, outlining a method and apparatus for det
 I participated in national projects undertaken by the research lab during my graduate studies. <br>
 **"Research and Application of Key Technologies for Real-time Fault Diagnosis of Intelligent Production Line of Industrial Internet of Things.(2017YFE025300)"**
 
+---
+
+## Competitions
+
+- **Oct 2022:** "Huawei Cup" China Graduate Mathematical Modeling Competition National Second Prize - on the scientific management of daily necessities during the epidemic
+- **May 2018:** Mathematical Modeling Competition Provincial First Prize - Special Clothing Design for hot environment
+

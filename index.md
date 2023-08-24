@@ -4,7 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://caihanlin.com/wzsperson.jpg" class="floatpic" style="max-width: 360px; height: auto;">
+
+# <img src="https://caihanlin.com/wzsperson.jpg" class="floatpic" width="360" height="480">
 
 Here is **Zisong Wang (Sandy, 王子淞)**.
 

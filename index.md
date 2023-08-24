@@ -12,6 +12,17 @@ I am currently pursuing a Master's degree in Computer Science and Technology at 
 
 <br>
 
+---
+
+## News and Updates
+
+- **Aug 2023:** One paper accepted to MDPI Sensors. [**Paper**](https://doi.org/10.3390/s23156883)
+- **May 2022:** A patent application is approved. [**Patent**](https://wzs-go.github.io/file/papentwzs.pdf)
+
+<br>
+
+---
+
 ## Academic Background
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
@@ -32,12 +43,3 @@ I am currently pursuing a Master's degree in Computer Science and Technology at 
 - Machine Learning
 
 My current research focus is on the practical problems faced by computer vision in industry. My interest is in applications related to **Computer Vision**, and recently I have also developed an interest in **Cross-Domain Few-Shot Learning**. In summary, the current technologies related to deep learning have had a positive impact on everyone's lives. I hope to dedicate my talents to this meaningful cause.
-
-<br>
-
----
-
-## News and Updates
-
-- **Aug 2023:** One paper accepted to MDPI Sensors. [**Paper**](https://doi.org/10.3390/s23156883)
-- **May 2022:** A patent application is approved. [**Patent**](https://wzs-go.github.io/file/papentwzs.pdf)

@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/wzsperson.jpg" class="floatpic" style="max-width: 360px; height: auto;">
+<img src="https://wzs-go.github.io/images/wzsperson.jpg" class="floatpic" style="max-width: 360px; height: auto;">
 
 # <img src="https://caihanlin.com/wzsperson.jpg" class="floatpic" width="360" height="480">
 

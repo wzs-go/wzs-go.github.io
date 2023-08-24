@@ -11,9 +11,7 @@ Lastest Update: 24st Aug 2023&nbsp;
 ## Journal Paper
 
 - [**Edge Detection via Fusion Difference Convolution**](https://doi.org/10.3390/s23156883)
-
 <br>
-
 The main contributions of this paper are as follows:<br>
 (1) Improvement of the original PDC structure by adding a vanilla convolutional layer. This enhancement allows for better extraction of both semantic and edge information from images, reducing the impact of texture information and noise while maintaining similar computational cost and memory usage to the original model.<br>
 (2) Introduction of an oblique fusion differential convolutional structure, which addresses the challenge of accurately identifying oblique edges in the presence of complex edge information. This novel structure improves upon previous methods that struggled with such oblique edge detection.<br>
@@ -25,16 +23,20 @@ The main contributions of this paper are as follows:<br>
 
 ## Patent
 
-- **A Method and Apparatus for Edge Detection of Guide Rail Steel Plate Protection** [Chinese vision](https://wzs-go.github.io/file/papentwzs.pdf)
+- **A Method and Apparatus for Edge Detection of Guide Rail Steel Plate Protection** [(Chinese vision)](https://wzs-go.github.io/file/papentwzs.pdf)
 <br>
 **Patent Number**: 202211568856.X.<br>
 A patent is presented in this document, outlining a method and apparatus for detecting guide rail steel plate protection covers. Building upon the VGG16, modifications were made to the network structure by incorporating gradient information. The loss function was adapted to a dice coefficient equation to attain precise edges.
 
-<img src="https://wzs-go.github.io/images/fig3.png" style="max-width: 60%; height: auto;">
+<div style="text-align: center;">
+    <img src="https://wzs-go.github.io/images/fig3.png" style="max-width: 60%; height: auto; display: inline-block;">
+</div>
+
 
 ---
 
 ## Project
 
-I participated in national projects undertaken by the research lab during my graduate studies. "**Research and Application of Key Technologies for Real-time Fault Diagnosis of Intelligent Production Line of Industrial Internet of Things.**"(2017YFE025300)
+I participated in national projects undertaken by the research lab during my graduate studies. <br>
+**"Research and Application of Key Technologies for Real-time Fault Diagnosis of Intelligent Production Line of Industrial Internet of Things.(2017YFE025300)"**
 

@@ -6,9 +6,9 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Zisong Wang (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Zisong Wang (Sandy, 王子淞)**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
+I am currently pursuing a Master's degree in Computer Science and Technology at the University of the Chinese Academy of Sciences. I completed my Bachelor's degree in Mathematics and Applied Mathematics from Jilin University in 2020. During my Master's studies, my primary research focus has been in the field of computer vision. My research project involves utilizing deep learning-based edge detection techniques to implement fault detection for machine tool guide components. Here is [my CV](https://wzs-go.github.io/file/Zisong Wang (CV-En).pdf).
 
 <br>
 

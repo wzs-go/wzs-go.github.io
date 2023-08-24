@@ -6,13 +6,20 @@ title: Publications
 
 # Publications
 
-Lastest Update: 11st Aug 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+Lastest Update: 24st Aug 2023&nbsp;
 
-## Conference Paper
+## Journal Paper
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).<br>
+- [Edge Detection via Fusion Difference Convolution](https://doi.org/10.3390/s23156883)<br>
+The main contributions of this paper are as follows:
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
+(1) Improvement of the original PDC structure by adding a vanilla convolutional layer. This enhancement allows for better extraction of both semantic and edge information from images, reducing the impact of texture information and noise while maintaining similar computational cost and memory usage to the original model.
+
+(2) Introduction of an oblique fusion differential convolutional structure, which addresses the challenge of accurately identifying oblique edges in the presence of complex edge information. This novel structure improves upon previous methods that struggled with such oblique edge detection.
+
+(3) We have incorporated a channel spatial attention module and an upsampling model, empowering the model to dynamically capture crucial information within each channel, suppress background noise, and extract image features across various scales and levels.
+
+<img src="https://wzs-go.github.io/images/fig2.jpg" style="max-width: 100%; height: auto;">
 
 ## Working Manuscript
 

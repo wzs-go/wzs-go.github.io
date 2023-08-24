@@ -17,7 +17,8 @@ I am currently pursuing a Master's degree in Computer Science and Technology at 
 ## News and Updates
 
 - **Aug 2023:** One paper accepted to MDPI Sensors. [**Paper**](https://doi.org/10.3390/s23156883)
-- **May 2022:** A patent application is approved. [**Patent**](https://wzs-go.github.io/file/papentwzs.pdf)
+- **Dec 2022:** A patent application is approved. [**Patent**](https://wzs-go.github.io/file/papentwzs.pdf)
+- **Oct 2022:** "Huawei Cup" China Graduate Mathematical Modeling Competition National Second Prize
 
 <br>
 

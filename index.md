@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://wzs-go.github.io/images/wzsperson.jpg" class="floatpic" style="max-width: 360px; height: auto;">
 
-Here is **Zisong Wang (Sandy, 王子淞)**.
+Here is **Zisong Wang (Sandy, 王子淞)**. Email: zswanggogo@hotmail.com
 
 I am currently pursuing a Master's degree in Computer Science and Technology at the University of the Chinese Academy of Sciences. I completed my Bachelor's degree in Mathematics and Applied Mathematics from Jilin University in 2020. During my Master's studies, my primary research focus has been in the field of computer vision. My research project involves utilizing deep learning-based edge detection techniques to implement fault detection for machine tool guide components. Here is [my CV](https://wzs-go.github.io/file/Zisong Wang (CV-En).pdf).
 

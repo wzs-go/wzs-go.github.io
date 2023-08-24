@@ -10,13 +10,11 @@ Lastest Update: 24st Aug 2023&nbsp;
 
 ## Journal Paper
 
-- [Edge Detection via Fusion Difference Convolution](https://doi.org/10.3390/s23156883)<br>
-The main contributions of this paper are as follows:
+- [Edge Detection via Fusion Difference Convolution](https://doi.org/10.3390/s23156883)
 
-(1) Improvement of the original PDC structure by adding a vanilla convolutional layer. This enhancement allows for better extraction of both semantic and edge information from images, reducing the impact of texture information and noise while maintaining similar computational cost and memory usage to the original model.
-
-(2) Introduction of an oblique fusion differential convolutional structure, which addresses the challenge of accurately identifying oblique edges in the presence of complex edge information. This novel structure improves upon previous methods that struggled with such oblique edge detection.
-
+The main contributions of this paper are as follows:<br>
+(1) Improvement of the original PDC structure by adding a vanilla convolutional layer. This enhancement allows for better extraction of both semantic and edge information from images, reducing the impact of texture information and noise while maintaining similar computational cost and memory usage to the original model.<br>
+(2) Introduction of an oblique fusion differential convolutional structure, which addresses the challenge of accurately identifying oblique edges in the presence of complex edge information. This novel structure improves upon previous methods that struggled with such oblique edge detection.<br>
 (3) We have incorporated a channel spatial attention module and an upsampling model, empowering the model to dynamically capture crucial information within each channel, suppress background noise, and extract image features across various scales and levels.
 
 <img src="https://wzs-go.github.io/images/fig2.jpg" style="max-width: 100%; height: auto;">

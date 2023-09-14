@@ -43,4 +43,4 @@ I am currently pursuing a Master's degree in Computer Science and Technology at 
 - Deep Learning
 - Machine Learning
 
-My current research focus is on the practical problems faced by computer vision in industry. My interest is in applications related to **Computer Vision**, and recently I have also developed an interest in **Cross-Domain Few-Shot Learning**. In summary, the current technologies related to deep learning have had a positive impact on everyone's lives. I hope to dedicate my talents to this meaningful cause.
+My current research focus is on the practical problems faced by computer vision in industry. My interest is in applications related to **Computer Vision**, and recently I have also developed an interest in **3D reconstruction, especially the generalization of 3D reconstruction**. In summary, the current technologies related to deep learning have had a positive impact on everyone's lives. I hope to dedicate my talents to this meaningful cause.
